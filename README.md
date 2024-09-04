@@ -10,7 +10,7 @@ This code analysis the voltage data of Vela pulsar from Ooty radio telescope.
   
 The integrated pulse profile of the Vela pulsar is obtained using the De-dispersed dynamic spectrum for north and south apertures. The obtained time period of the pulsar is 89 ms.
 
-The following figures show dynamics spectrum and the integrated pulse profile of Vela pulsar repectively.
+The following figures show dynamics spectrum and the integrated pulse profile of Vela pulsar obtained from the analysis.
 
 ![Power_spectrum](https://github.com/user-attachments/assets/c65cc995-3b5b-4d11-8018-32d4875d46b2)
 
