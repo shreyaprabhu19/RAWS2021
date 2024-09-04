@@ -4,7 +4,13 @@ This repository contains the codes for data analysis of voltage data from Ooty R
 ## Analysis of voltage data
 
 ### Pulsar signal 
-This code analysis the voltage data of Vela pulsar from Ooty radio telescope. The integrated pulse profile of the Vela pulsar is obtained using the De-dispersed dynamic spectrum for north and south apertures. The obtained time period of the pulsar is 89 ms.
+This code analysis the voltage data of Vela pulsar from Ooty radio telescope. 
+
+* Data: file containing 2 columns of integer values separated by a space, corresponding to the voltage readings from North (column 1) and South (Column 2) apertures at Ooty Radio Telescope.
+  
+The integrated pulse profile of the Vela pulsar is obtained using the De-dispersed dynamic spectrum for north and south apertures. The obtained time period of the pulsar is 89 ms.
 
 ### identifying RFI channels
 This code uses the power spectrum to identify RFI channels involtage data from Giant Metrewave Radio Telescope (GMRT).
+
+* Data: files corresponding to the voltage recorded by antennas C11 and C12 observed at band 3 (300 - 500 MHz) and band 5 (1050 - 1450 MHz) at each (voltage time-series data).
