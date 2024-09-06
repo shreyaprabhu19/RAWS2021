@@ -1,4 +1,4 @@
-# RAWS2012
+# RAWS2021
 This repository contains the codes for data analysis of voltage data from Ooty Radio Telescope and Giant Metrewave Radio Telescope (GMRT). This analysis was a part of Radio Astronomy Winter School, 2021 organised by National Centre for Radio Astrophysics (NCRA), Pune and Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune, India.
 
 ## Analysis of voltage data
